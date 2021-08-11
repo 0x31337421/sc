@@ -1,0 +1,11 @@
+{
+  "name": "agave-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "0x31337421 <0x31337421@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.4.4",
+    "web3-utils": "^1.5.1"
+  }
+}
